@@ -1,6 +1,6 @@
 # Polyak Subgradient Method for Robust Phase Retrieval
 
-This repository contains a high-performance Python implementation of the **Subgradient Algorithm with Scaled Polyak Step-size** for solving the **Phase Retrieval** problem. The solver is designed to be robust against outliers by utilizing an $L_1$-norm objective function.
+This repository contains a high-performance Python implementation of the **Subgradient Algorithm with Scaled Polyak Step-size** for solving the **Robust Phase Retrieval** problem. The solver is designed to be robust against outliers by utilizing an $L_1$-norm objective function.
 
 ## 📌 Overview
 
